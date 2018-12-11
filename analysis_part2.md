@@ -52,6 +52,9 @@ The 10 most engaged users ranked by average session length.
 ## Additional questions for Machine Learning Engineer (MLE) candidates:
 1. Predict the expected load (requests/second) in the next minute
 
+![Alt text](1.png?raw=true "Title")
+
+
 2. Predict the session length for a given IP
 
 3. Predict the number of unique URL visits by a given IP
